@@ -1,6 +1,8 @@
 # Binaries for programs and plugins
+.DS_Store
+._*
+*~
 *.exe
-*.exe~
 *.dll
 *.so
 *.dylib
@@ -12,4 +14,3 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
