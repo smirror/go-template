@@ -7,6 +7,18 @@
 *.so
 *.dylib
 
+## Editor
+*.swp
+*.swo
+Session.vim
+.cproject
+.idea
+*.iml
+.vscode
+.project
+.favorites.json
+.settings/
+
 # Test binary, built with `go test -c`
 *.test
 
@@ -15,4 +27,3 @@
 
 # Dependency directories (remove the comment below to include it)
 tmp/**
-.idea/**
